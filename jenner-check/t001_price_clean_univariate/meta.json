@@ -1,0 +1,7 @@
+{
+  "bundle": "t001_price_clean_univariate",
+  "source_file": "Airbnb Data Analysis.sas",
+  "source_blob_sha": "b91dd63b3520f289aa1b2891e43ec7931ed07e69",
+  "source_commit": "bb7f4eb5e9fa0b2054cae63e7dc1cb9b989a541b",
+  "notes": "Price-cleaning slice: parses the DOLLAR-formatted price with INPUTN, filters to 30-475, log-transforms, and runs PROC UNIVARIATE on price and log_price. Input is a 20-row mock matching the columns the pipeline reads."
+}

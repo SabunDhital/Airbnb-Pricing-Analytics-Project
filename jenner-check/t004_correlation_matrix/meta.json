@@ -1,0 +1,7 @@
+{
+  "bundle": "t004_correlation_matrix",
+  "source_file": "Airbnb Data Analysis.sas",
+  "source_blob_sha": "b91dd63b3520f289aa1b2891e43ec7931ed07e69",
+  "source_commit": "bb7f4eb5e9fa0b2054cae63e7dc1cb9b989a541b",
+  "notes": "Correlation slice: defines the %let model_vars macro variable and runs PROC CORR over the seven model variables. Mock input."
+}

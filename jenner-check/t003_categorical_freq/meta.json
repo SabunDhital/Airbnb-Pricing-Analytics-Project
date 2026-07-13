@@ -1,0 +1,7 @@
+{
+  "bundle": "t003_categorical_freq",
+  "source_file": "Airbnb Data Analysis.sas",
+  "source_blob_sha": "b91dd63b3520f289aa1b2891e43ec7931ed07e69",
+  "source_commit": "bb7f4eb5e9fa0b2054cae63e7dc1cb9b989a541b",
+  "notes": "Categorical-grouping slice: bedroom_group/bathroom_group/beds_group/property_cat/ward_type recodes, then PROC FREQ verification. Mock input."
+}

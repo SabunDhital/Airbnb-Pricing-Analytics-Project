@@ -1,0 +1,117 @@
+Price Distribution                                                   
+
+                                                The UNIVARIATE Procedure
+                                                    Variable:  price
+
+                                                        Moments
+
+N                                 20    Sum Weights                       20
+Mean                      170.300000    Sum Observations         3406.000000
+Std Deviation             120.119283    Variance                14428.642105
+Skewness                    1.433362    Kurtosis                    1.987699
+Uncorrected SS         854186.000000    Corrected SS           274144.200000
+Coeff Variation            70.533930    Std Error Mean             26.859488
+
+           Basic Statistical Measures            
+
+Location              Variability                
+--------  ----------  -------------  ------------
+Mean      170.300000  Std Deviation    120.119283
+Median    136.000000  Variance       14428.642105
+Mode               .  Range            472.000000
+
+Quantiles (Definition 5)
+
+Quantile      Estimate
+----------  ----------
+0% Min       28.000000
+1%           28.000000
+5%           39.000000
+10%          57.500000
+25% Q1       86.500000
+50% Median  136.000000
+75% Q3      217.500000
+90%         350.000000
+95%         450.000000
+99%         500.000000
+100% Max    500.000000
+
+          Extreme Observations           
+
+Lowest               Highest             
+--------  ---------  --------  ----------
+Value     28.000000  Value     225.000000
+Value     50.000000  Value     260.000000
+Value     65.000000  Value     300.000000
+Value     78.000000  Value     400.000000
+Value     85.000000  Value     500.000000
+
+
+
+
+         Tests for Location          
+
+Test                Statistic   p Value
+------------------  ---------  --------
+Student's t         6.340403766  0.000004392
+Sign                       10  0.000001907
+Signed Rank               210  0.000088611
+
+                                           Log-Transformed Price Distribution                                           
+
+                                                The UNIVARIATE Procedure
+                                                  Variable:  log_price
+
+                                                        Moments
+
+N                                 18    Sum Weights                       18
+Mean                        4.927987    Sum Observations           88.703772
+Std Deviation               0.558202    Variance                    0.311590
+Skewness                    0.085321    Kurtosis                   -0.576237
+Uncorrected SS            442.428089    Corrected SS                5.297022
+Coeff Variation            11.327181    Std Error Mean              0.131569
+
+        Basic Statistical Measures         
+
+Location            Variability            
+--------  --------  -------------  --------
+Mean      4.927987  Std Deviation  0.558202
+Median    4.912222  Variance       0.311590
+Mode             .  Range          2.079442
+
+Quantiles (Definition 5)
+
+Quantile    Estimate
+----------  --------
+0% Min      3.912023
+1%          3.912023
+5%          3.912023
+10%         4.174387
+25% Q1      4.477337
+50% Median  4.912222
+75% Q3      5.347108
+90%         5.703782
+95%         5.991465
+99%         5.991465
+100% Max    5.991465
+
+         Extreme Observations         
+
+Lowest              Highest           
+--------  --------  --------  --------
+Value     3.912023  Value     5.347108
+Value     4.174387  Value     5.416100
+Value     4.356709  Value     5.560682
+Value     4.442651  Value     5.703782
+Value     4.477337  Value     5.991465
+
+
+
+
+         Tests for Location          
+
+Test                Statistic   p Value
+------------------  ---------  --------
+Student's t         37.455397651         0
+Sign                        9  0.000007629
+Signed Rank               171  0.000196495

@@ -1,0 +1,38 @@
+Frequency of Engineered Features                                            
+
+                                                   The FREQ Procedure
+
+                                           Cumulative    Cumulative
+bedroom_group    Frequency    Percent     Frequency      Percent
+----------------------------------------------------------------------
+0-1 Bedroom              7     38.89            7        38.89
+2-3 Bedrooms             9     50.00           16        88.89
+4-5 Bedrooms             2     11.11           18       100.00
+
+                                            Cumulative    Cumulative
+bathroom_group    Frequency    Percent     Frequency      Percent
+-----------------------------------------------------------------------
+0-1 Bath                 11     61.11           11        61.11
+2-3 Baths                 6     33.33           17        94.44
+4+ Baths                  1      5.56           18       100.00
+
+                                        Cumulative    Cumulative
+beds_group    Frequency    Percent     Frequency      Percent
+-------------------------------------------------------------------
+0-1 Beds              6     33.33            6        33.33
+2 Beds                5     27.78           11        61.11
+3-4 Beds              5     27.78           16        88.89
+5+ Beds               2     11.11           18       100.00
+
+                                          Cumulative    Cumulative
+property_cat    Frequency    Percent     Frequency      Percent
+---------------------------------------------------------------------
+Entire_Place           12     66.67           12        66.67
+Private_Room            6     33.33           18       100.00
+
+                                         Cumulative    Cumulative
+ward_type      Frequency    Percent     Frequency      Percent
+--------------------------------------------------------------------
+Residential            3     16.67            3        16.67
+Sub-Urban             10     55.56           13        72.22
+Urban                  5     27.78           18       100.00

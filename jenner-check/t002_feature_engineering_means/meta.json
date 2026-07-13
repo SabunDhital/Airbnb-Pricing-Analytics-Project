@@ -1,0 +1,7 @@
+{
+  "bundle": "t002_feature_engineering_means",
+  "source_file": "Airbnb Data Analysis.sas",
+  "source_blob_sha": "b91dd63b3520f289aa1b2891e43ec7931ed07e69",
+  "source_commit": "bb7f4eb5e9fa0b2054cae63e7dc1cb9b989a541b",
+  "notes": "Feature-engineering slice: builds poly_accom/poly_min/poly_max/poly_avail, log_host_listings and beds_per_accom/bath_per_accom, then PROC MEANS on them. Mock input."
+}

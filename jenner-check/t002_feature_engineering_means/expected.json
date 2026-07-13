@@ -1,0 +1,19 @@
+{
+  "_captured_at": "2026-07-13T08:22:05.851242+00:00",
+  "_captured_run_id": "r_e83b65d1ad184a1e8b5587130bb6d5aa",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: PROC MEANS statement used.",
+    "NOTE: Option TITLE changed to Summary Statistics of NEW Engineered Features.",
+    "NOTE: Wrote WORK.Listings_Clean (18 rows, 27 columns)."
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}

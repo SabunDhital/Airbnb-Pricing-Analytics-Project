@@ -1,0 +1,23 @@
+The SURVEYSELECT Procedure
+
+Selection Method     SRS
+Input Data Set       WORK.Listings_Clean
+Number of Obs Read   18
+Sample Size          18
+Sampling Weight      1.0000
+                                              Training Sample Verification                                              
+
+                                                   The FREQ Procedure
+
+                                      Cumulative    Cumulative
+Selected    Frequency    Percent     Frequency      Percent
+-----------------------------------------------------------------
+1                  15    100.00           15       100.00
+                                                Test Sample Verification                                                
+
+                                                   The FREQ Procedure
+
+                                      Cumulative    Cumulative
+Selected    Frequency    Percent     Frequency      Percent
+-----------------------------------------------------------------
+0                   3    100.00            3       100.00

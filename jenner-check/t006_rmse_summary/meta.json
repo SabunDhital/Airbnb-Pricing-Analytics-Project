@@ -1,0 +1,7 @@
+{
+  "bundle": "t006_rmse_summary",
+  "source_file": "Airbnb Data Analysis.sas",
+  "source_blob_sha": "b91dd63b3520f289aa1b2891e43ec7931ed07e69",
+  "source_commit": "bb7f4eb5e9fa0b2054cae63e7dc1cb9b989a541b",
+  "notes": "RMSE-metric slice: computes residual/squared/back-transformed errors and the trans_RMSE/true_RMSE summary via PROC SUMMARY and PROC PRINT. Mock input."
+}

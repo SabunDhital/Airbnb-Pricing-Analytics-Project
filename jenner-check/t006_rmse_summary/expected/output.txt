@@ -1,0 +1,4 @@
+Test-Set RMSE Summary                                                  
+
+  Obs  _TYPE_  _FREQ_  squared_error   trans_error      true_error          RMSE    trans_RMSE     true_RMSE
+    1       0      18          0.075  18.938652087  147.0973479995  0.0645497224  1.0257423352  8.1720748889

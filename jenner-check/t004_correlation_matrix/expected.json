@@ -1,0 +1,18 @@
+{
+  "_captured_at": "2026-07-13T08:22:05.851242+00:00",
+  "_captured_run_id": "r_57701ddbfd6843318df01627cc650f41",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: PROC CORR data=WORK.Listings_Clean",
+    "NOTE: Option TITLE changed to Correlation Matrix - Model Variables Only."
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}
